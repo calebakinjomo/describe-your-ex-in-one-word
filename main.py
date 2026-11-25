@@ -34,7 +34,7 @@ the reader to finish the joke). "Uninstalled" needs no finishing.
 
 import os
 
-ENTRY = "Uninstalled"
+ENTRY = "Uninstalled"  # Strategy: a tech verb as the whole verdict — the ex as software removed, not a person described.
 
 def main():
     # Gate: /output/entry.txt must be UTF-8 text of 1 to 111
